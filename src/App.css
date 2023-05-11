@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -66,4 +66,85 @@ a{
   padding-bottom: 10px;
   text-decoration: none;
   color: white;
+} */
+
+
+*{
+  padding: 0;
+  margin: 0;
+  /* box-sizing: border-box; */
+}
+.container{
+  display: flex;
+  /* justify-content: center; */
+  justify-content: space-around;
+  margin-top: 24px;
+  height:70px;
+  width:1000px;
+  margin-left: 180px;
+
+}
+.naaaaav{
+  display: flex;
+   /* justify-content: center; */
+  list-style: none; 
+  margin-right: 190px;
+   /* padding: 20px;  */
+   /* margin-left: 40px;  */
+  height:50px; 
+  width: 610px;
+margin-top: -1px;
+
+  
+  /* align-items: center;  */
+}
+.one{
+  display: flex;
+  justify-content: center;
+  /* justify-content: space-around; */
+}
+
+.firsssssssst{
+  width: 145px;
+  margin-bottom: 40px;
+  padding-right: 43px;
+  color:hsl(236, 8%, 66%);
+  text-align: center;
+
+  
+}
+.first{
+  padding-top: 175px;
+  padding-left: 40px;
+}
+p{
+  color:hsl(236, 8%, 66%);
+}
+
+button{
+  border-radius: 20px;
+width: 105px;
+margin-top: -5px;
+background-color: hsl(192, 70%, 51%);
+/* margin-right: 30px; */
+height: 30px;
+}
+.b{
+display:none;
+}
+.b{
+  height: 30px;
+}
+.big{
+  display: flex;
+  justify-content: space-around;
+}
+.a{
+  height: 18px;
+}
+.seconddddd{
+  padding-left: 80px;
+}
+.ww{
+  margin-top: 8px;
 }
